@@ -1,6 +1,6 @@
 # Tools Hub App
 
-### Web Development • Software Solutions • Automation • Digital Tools
+### Web Development • WordPress • Custom Software • POS • Automation • Digital Solutions
 
 **Tools Hub App** is a web development and software solutions company focused on building modern websites, WordPress solutions, custom web applications, business software, POS systems, browser extensions, automation tools, and practical digital products.
 
